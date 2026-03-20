@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+detoxify
+torch
+jsonschema
+streamlit
+requests
+openai
+sqlalchemy
+python-dotenv
