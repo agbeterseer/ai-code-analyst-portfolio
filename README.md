@@ -1,38 +1,63 @@
 # AI Code Analyst Portfolio
 
-## About Me
+## 🚀 About Me
 
-Backend Engineer with strong experience in Java and system design,
-specializing in evaluating and improving AI-generated code.
+Backend Engineer specializing in evaluating, improving, and validating AI-generated code.
 
-## What I Do
+I focus on identifying:
 
-* Code annotation for AI training
-* AI output evaluation (correctness, efficiency, safety)
-* Backend system design improvements
-* Code quality and validation systems
+* Hidden bugs
+* Security risks
+* Performance issues
+* Architectural weaknesses
 
-## Projects
+## 🧠 What This Portfolio Shows
 
-### 1. Code Annotations
+This repository demonstrates my ability to:
 
-Deep analysis of real-world backend systems
+* Analyze real-world backend systems
+* Evaluate AI-generated code outputs
+* Improve system design using proven patterns
+* Apply production-level thinking (payments, security, scalability)
 
-### 2. AI Evaluations
+## 📂 Projects
 
-Critical review of AI-generated code
+### 🔍 Code Annotations
 
-### 3. System Design
+Deep analysis of backend services including:
 
-Scalable and secure backend architecture
+* Order processing
+* Payment systems
+* Authentication flows
 
-## Skills
+### 🤖 AI Code Evaluations
+
+Breakdown of AI-generated code using:
+
+* Correctness scoring
+* Efficiency analysis
+* Safety evaluation
+
+### 🏗️ System Design
+
+Redesigning systems for:
+
+* Scalability
+* Testability
+* Security
+
+## 🛠️ Tech & Skills
 
 * Java, Spring Boot
-* Code Review & Static Analysis
-* AI Code Evaluation
 * System Design
+* Code Review & Static Analysis
+* AI Code Evaluation (LLM outputs)
 
-## Goal
+## 🎯 What Makes Me Different
 
-To build reliable systems and improve AI-generated code quality.
+I don’t just write code —
+I evaluate and improve AI-generated systems.
+
+## 📌 Goal
+
+To build reliable systems and contribute to AI-assisted software engineering.
